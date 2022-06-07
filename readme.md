@@ -33,3 +33,4 @@ m.lcOut=m.loBASE32.TOGEOHASH(m.lcIn)
 ?m.loBASE32.FROMGEOHASH(m.lcOut)
 ``` 
 
+
